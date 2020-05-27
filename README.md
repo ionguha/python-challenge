@@ -3,7 +3,7 @@
 **_Python Homework - Py Me Up, Charlie_**
 ## PyBank
 
-* In this challenge, I am tasked with creating a Python script for analyzing the financial records of my company. We have a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. 
+* In this challenge, I am tasked with creating a Python script for analyzing the financial records of a company. We have a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
 * My task is to create a Python script that analyzes the records to calculate each of the following:
 
