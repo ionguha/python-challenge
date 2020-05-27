@@ -18,7 +18,7 @@
 
 * My final script prints the analysis to the terminal and exports a text file **_(PyBank/Analysis/budget_analysis.txt)_** with the results.
 
-## <span style="color:red; font-family:Georgia >red.</span>PyPoll
+## <span style="color:red;"> PyPoll </span> 
 
 * In this challenge, I am tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
 
