@@ -1,3 +1,4 @@
+![python logo](https://www.python.org/static/community_logos/python-logo-generic.svg)
 # python-challenge
 **_Python Homework - Py Me Up, Charlie_**
 ## PyBank
