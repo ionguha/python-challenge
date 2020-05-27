@@ -16,7 +16,7 @@
 
   * The greatest decrease in losses (date and amount) over the entire period
 
-* My final script prints the analysis to the terminal and exports a text file (PyBank/Analysis/budget_analysis.txt) with the results.
+* My final script prints the analysis to the terminal and exports a text file **_(PyBank/Analysis/budget_analysis.txt)_** with the results.
 
 ## PyPoll
 
@@ -34,4 +34,4 @@
 
   * The winner of the election based on popular vote.
 
-* My final script checks for (a) Voter ID fraud (b) checks if there is a tie (c) reports the runner up and  (d) prints the analysis to the terminal and exports a text file (PyPoll/Analysis/election_analysis.txt) with the results.
+* My final script checks for (a) Voter ID fraud (b) checks if there is a tie (c) reports the runner up and  (d) prints the analysis to the terminal and exports a text file **_(PyPoll/Analysis/election_analysis.txt)_** with the results.
