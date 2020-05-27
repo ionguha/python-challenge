@@ -24,14 +24,14 @@
 
 * I am given a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. My task is to create a Python script that analyzes the votes and calculates each of the following:
 
-  *The total number of votes cast
+  * The total number of votes cast
 
-  *A complete list of candidates who received votes
+  * A complete list of candidates who received votes
 
-  *The percentage of votes each candidate won
+  * The percentage of votes each candidate won
 
-  *The total number of votes each candidate won
+  * The total number of votes each candidate won
 
-  *The winner of the election based on popular vote.
+  * The winner of the election based on popular vote.
 
 * My final script checks for (a) Voter ID fraud (b) checks if there is a tie (c) reports the runner up and  (d) prints the analysis to the terminal and exports a text file **_(PyPoll/Analysis/election_analysis.txt)_** with the results.
