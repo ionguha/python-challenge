@@ -1,7 +1,7 @@
 # python-challenge
 **_Python Homework - Py Me Up, Charlie_**
 ## PyBank
-
+![money image](https://cdn.imgbin.com/6/10/7/imgbin-make-it-rain-the-love-of-money-money-tree-njWanPNn0vDwMVNiiEYP35TzB.jpg)
 * In this challenge, I am tasked with creating a Python script for analyzing the financial records of my company. We have a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
 * My task is to create a Python script that analyzes the records to calculate each of the following:
