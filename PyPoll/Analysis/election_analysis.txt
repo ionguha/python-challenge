@@ -1,0 +1,57 @@
+Headers in election_data.csv: 
+['Voter ID', 'County', 'Candidate']
+-------------------------------
+Worksheet : Tallying the votes 
+--------------------------------
+Number of Candidates: 4
+--------------------------------
+Candidate Names 
+--------------------------------
+Correy
+O'Tooley
+Li
+Khan
+--------------------------------
+Number of Counties: 5
+--------------------------------
+County Names 
+--------------------------------
+Marsh
+Bamoo
+Raffah
+Queen
+Trandee
+--------------------------------
+Votes won by each candidate 
+--------------------------------
+Correy : 704200
+O'Tooley : 105630
+Li : 492940
+Khan : 2218231
+--------------------------------
+Votes reported by each county 
+--------------------------------
+Marsh : 2265957
+Bamoo : 348658
+Raffah : 104566
+Queen : 697203
+Trandee : 104617
+--------------------------------
+Voter_ID Check : Passed 
+--------------------------------
+    Election Results 
+--------------------------------
+Total votes: 3521001
+--------------------------------
+Correy : 20.000% (704200)
+O'Tooley : 3.000% (105630)
+Li : 14.000% (492940)
+Khan : 63.000% (2218231)
+--------------------------------
+Winner    : Khan
+--------------------------------
+Runner-up : Correy
+--------------------------------------
+Correy got 43.00% (1514031) less votes
+--------------------------------------
+End of Report
